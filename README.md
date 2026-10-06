@@ -120,7 +120,7 @@ questlog/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<Christyjohntharakan>/questlog.git
+git clone https://github.com/Christyjohntharakan/questlog.git
 cd questlog
 ```
 
